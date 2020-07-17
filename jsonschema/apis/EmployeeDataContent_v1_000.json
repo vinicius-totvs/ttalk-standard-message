@@ -182,7 +182,7 @@
 				"in": "query",
 				"required": false,
 				"description": "Data da ultima atualização do registro.",
-				"example": "YYYY-MM-DDThh:mm:ssZ",
+				"example": "YYYY-MM-DDThh:mm:ssZ para horário UTC ou YYYY-MM-DDThh:mm:ssZ horário local.",
 				"schema": {
 					"type": "string"
 				},
